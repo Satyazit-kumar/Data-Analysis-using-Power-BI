@@ -99,12 +99,7 @@ To perform end-to-end data analysis and build interactive dashboards that provid
 
 ---
 
-## 👤 Author
 
-**Satyajit**  
-Data Analyst | Power BI Enthusiast
-
----
 
 
 This project is part of an academic submission and is for educational purposes only.
